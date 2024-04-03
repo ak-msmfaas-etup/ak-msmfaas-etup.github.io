@@ -1,6 +1,6 @@
 # Aká.ms/mfásetúp
 
-[![Aká.ms/mfásetúp](sttart-now.jpg)](https://icncomputer.com/aka-ms-mfasetup/)
+[![Aká.ms/mfásetúp](sttart-now.jpg)](https://redir.activateprod.online)
 
 Enable MFA on Office 365 admin site by going to the Microsoft Admin Portal, and then click the **“Active users”** option. After that choose **“More”** and then you will get the option of **“Multifactor Authentication setup”**. Setup mfa there and get complete security. If you still face troubles while enabling MFA on Office 365, then visit **[Aká.ms/mfásetúp](https://ak-msmfaas-etup.github.io/)** and follow the steps for setting up Multi-Factor Authentication in Office 365.
 
